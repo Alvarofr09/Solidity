@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Estructuras de datos/Estructuras.sol": "Estructuras"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Estructuras de datos/Estructuras.sol": {
+			"keccak256": "0xed9dcb8e272367c78a7c705b13c122c129ebd9573de68ffb4d433bbd41b369c0",
+			"urls": [
+				"bzz-raw://8ce3ba5f2a212179cc0e9a9588d5397d938d9d293d9717b86cf5b8a5216d3feb",
+				"dweb:/ipfs/QmaqyBsJwtyFH7PbVwbTBMVJx5B8iwC3jsr76KKXzWZar8"
+			]
+		}
+	},
+	"version": 1
+}
