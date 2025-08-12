@@ -1,0 +1,107 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_nombre",
+						"type": "string"
+					}
+				],
+				"name": "comprobar_causa",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_nombre",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_dinero",
+						"type": "uint256"
+					}
+				],
+				"name": "donar",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_nombre",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_precio_objetivo",
+						"type": "uint256"
+					}
+				],
+				"name": "nuevaCausa",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Funciones/causas_beneficas.sol": "causas_beneficas"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Funciones/causas_beneficas.sol": {
+			"keccak256": "0xb86bc740d8b7659ec23451804b6003618b29d451384f5d3093e6a0a960014ae5",
+			"urls": [
+				"bzz-raw://2f73141a53f2992b6d003dd35ac18ae86e3329de4434ae46fb868ceb783f17c4",
+				"dweb:/ipfs/QmbFUjDxZkmoxAU3BV5X674Q9bsYwiJEf3z6tTBPvLz6Fq"
+			]
+		}
+	},
+	"version": 1
+}
