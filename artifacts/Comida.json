@@ -1,0 +1,59 @@
+{
+	"deploy": {
+		"VM:-": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"main:1": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"ropsten:3": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"rinkeby:4": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"kovan:42": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"goerli:5": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"Custom": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		}
+	},
+	"data": {
+		"bytecode": {
+			"linkReferences": {},
+			"object": "6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122077c4d87e1465af66e1352853484855a0e4e8ea81469224e1339ec2a2d9a46c2564736f6c63430006000033",
+			"opcodes": "PUSH1 0x80 PUSH1 0x40 MSTORE CALLVALUE DUP1 ISZERO PUSH1 0xF JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST POP PUSH1 0x3F DUP1 PUSH1 0x1D PUSH1 0x0 CODECOPY PUSH1 0x0 RETURN INVALID PUSH1 0x80 PUSH1 0x40 MSTORE PUSH1 0x0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 PUSH24 0xC4D87E1465AF66E1352853484855A0E4E8EA81469224E133 SWAP15 0xC2 LOG2 0xD9 LOG4 PUSH13 0x2564736F6C6343000600003300 ",
+			"sourceMap": "35:710:0:-:0;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;35:710:0;;;;;;;"
+		},
+		"deployedBytecode": {
+			"linkReferences": {},
+			"object": "6080604052600080fdfea264697066735822122077c4d87e1465af66e1352853484855a0e4e8ea81469224e1339ec2a2d9a46c2564736f6c63430006000033",
+			"opcodes": "PUSH1 0x80 PUSH1 0x40 MSTORE PUSH1 0x0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 PUSH24 0xC4D87E1465AF66E1352853484855A0E4E8EA81469224E133 SWAP15 0xC2 LOG2 0xD9 LOG4 PUSH13 0x2564736F6C6343000600003300 ",
+			"sourceMap": "35:710:0:-:0;;;;;"
+		},
+		"gasEstimates": {
+			"creation": {
+				"codeDepositCost": "12600",
+				"executionCost": "66",
+				"totalCost": "12666"
+			},
+			"internal": {
+				"nuevoPlato(string memory,string memory,uint256)": "infinite",
+				"verIngredientesComida(string memory)": "infinite"
+			}
+		},
+		"methodIdentifiers": {}
+	},
+	"abi": []
+}
