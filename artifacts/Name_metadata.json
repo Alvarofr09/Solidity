@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Bloque_2/TOKEN/ERC20.sol": "Name"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Bloque_2/TOKEN/ERC20.sol": {
+			"keccak256": "0xe5af8b8ac88eeeb77ea71e922054064f39431a8a8c79df1486ce32f5c79e42f6",
+			"urls": [
+				"bzz-raw://c21c43db01829c91217334f0fe5f37e9cb05dd02806ba45556a9d46f3a5e47f2",
+				"dweb:/ipfs/QmeQLx1M7kkzcNZhzmPbxvHruF1yNMpgziY6vdHWVjxLcr"
+			]
+		},
+		"Bloque_2/TOKEN/SafeMath.sol": {
+			"keccak256": "0x10b026f5bf6336222f045103d95b94c408fcd4b36095222431626663f519da6a",
+			"urls": [
+				"bzz-raw://cb82567f03c95c1518b6d09700323ef2d11bcf587a23f220b5aef4cd0cdf433f",
+				"dweb:/ipfs/QmURQ56waPNQnLAeQYVDui2RJnC5fEKw9v2rA6L4PZhSsb"
+			]
+		}
+	},
+	"version": 1
+}

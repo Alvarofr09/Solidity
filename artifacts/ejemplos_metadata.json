@@ -87,7 +87,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"SafeMath/ejemplos_uso.sol": "ejemplos"
+			"Bloque_1/SafeMath/ejemplos_uso.sol": "ejemplos"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -101,14 +101,14 @@
 		"remappings": []
 	},
 	"sources": {
-		"SafeMath/SafeMath_comentada.sol": {
+		"Bloque_1/SafeMath/SafeMath_comentada.sol": {
 			"keccak256": "0xe846915952553bc7863f9e670a9f6d89bef2b7047d5e65a2655c9726e39dcd9e",
 			"urls": [
 				"bzz-raw://39111a0f9827c5b5b78783eaa06ae6f8c47f6b059b4fcbbcdaf61122d7c4b47e",
 				"dweb:/ipfs/QmdgNfUbXxbE78mrBR1rrLQJHL2RBsaciYecVVZaZNU1cS"
 			]
 		},
-		"SafeMath/ejemplos_uso.sol": {
+		"Bloque_1/SafeMath/ejemplos_uso.sol": {
 			"keccak256": "0x4f9adf22e106e29a237b907110be30380f748974b5caee3ff84ff0dcad1dce42",
 			"urls": [
 				"bzz-raw://abd771424738788886129cff1b61b87d86f09fef102c14a58296da70c73a0f80",

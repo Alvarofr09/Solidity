@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Bloque_2/VOTACIONES/votaciones.sol": "votaciones"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Bloque_2/VOTACIONES/votaciones.sol": {
+			"keccak256": "0x302c845fb2e5346719d66e3848af1e85822857bce466bdf804f98359dd960a15",
+			"urls": [
+				"bzz-raw://7d5bab63c82e3037f6b09e3e19e45e2820a7e77e71477da179648114931c2241",
+				"dweb:/ipfs/QmeTysj6DENSEa1A8Vax5G8eNZMwEZ1DoMeZgTuLghpUbp"
+			]
+		}
+	},
+	"version": 1
+}
