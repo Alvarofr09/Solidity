@@ -1,0 +1,67 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "MiContratoPersonal",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "factory",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Fabrica/factory.sol": "SmartContract1"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Fabrica/factory.sol": {
+			"keccak256": "0x03326fe6884987aa9a481304586b84fc02265f5e14853a6989eb8ebd8098c844",
+			"urls": [
+				"bzz-raw://012a19134e98149a838ac6902880b6c1bbb34f723c206f782b6ddaec9be39d03",
+				"dweb:/ipfs/QmPHEYcUFziE7BuYVDkMYk9Mz3eGLTektxL2dC7ncEe1Yb"
+			]
+		}
+	},
+	"version": 1
+}
